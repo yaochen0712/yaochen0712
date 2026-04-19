@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yaochen0712
-- 👀 I’m interested in nothing,maybe.
-- 🌱 I’m currently learning EE
+- 👀 I’m interested in Arichitecture design of chips and Hardware-software co-design.
+- 🌱 I’m currently learning CE
 - 💞️ I’m looking to collaborate on learning IC and CS
 - 📫 How to reach me Yaochen0712@outlook.com
 - 😄 Pronouns: ...

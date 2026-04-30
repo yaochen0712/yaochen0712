@@ -2,7 +2,7 @@
 - 👀 I’m interested in Arichitecture design of chips and Hardware-software co-design.
 - 🌱 I’m currently learning CE
 - 💞️ I’m looking to collaborate on learning IC and CS
-- 📫 How to reach me Yaochen0712@outlook.com
+- 📫 How to reach me ycYaochen0712@outlook.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: A FW of UESTC
 
